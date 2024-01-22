@@ -1,0 +1,9 @@
+@media (max-width: 767px) {
+  .contact .row {
+    flex-direction: column;
+  }
+  .contact .row .info {
+    margin-bottom: 35px;
+  }
+
+}
